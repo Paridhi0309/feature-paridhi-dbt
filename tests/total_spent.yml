@@ -1,0 +1,6 @@
+version: 2
+
+models:
+  - name: customer_order_summary
+    tests:
+      - test_custom_sql
