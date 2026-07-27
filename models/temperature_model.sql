@@ -1,4 +1,4 @@
-{% set temperature = 70.0 %}
+{% set temperature = 69.0 %}
 
 SELECT 
     'On a day like this,I especially like ' ||
