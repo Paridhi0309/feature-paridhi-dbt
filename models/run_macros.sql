@@ -13,4 +13,4 @@ select c.customer_count,
     t.total_revenue
 from customer_count c
 join order_count o on 1 = 1
-join total_revenue t on 1 = 1 
+join total_revenue t on 1 = 1
